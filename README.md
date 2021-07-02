@@ -1,2 +1,2 @@
 # software-engineering-
-Code from my software engineering class
+This is a repository I created for the code I completed in my soiftware engineering class.
